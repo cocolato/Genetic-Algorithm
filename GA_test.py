@@ -31,7 +31,7 @@ class GA:
     def __init__(self):
         self.pop_size = 80
         self.dna_size = 100
-        self.max_iter = 3000
+        self.max_iter = 10000
         self.pc = 0.6
         self.pm = 0.008
 
